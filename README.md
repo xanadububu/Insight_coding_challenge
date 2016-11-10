@@ -1,11 +1,9 @@
 #Usage
 1.Java was used for this problem. Java VM version is:
 
-	Java version "1.8.0_101"
+	Java version "1.8.0_111"
 
-	Java(TM) SE Runtime Environment (build 1.8.0_101-b13)
-
-	Java HotSpot(TM) 64-Bit Server VM (build 25.101-b13, mixed mode)
+	Java(TM) SE Runtime Environment (build 1.8.0_111-b14)
 
 2.Original repo directory structure is preserved, /insight_testsuite was not used. 
 
